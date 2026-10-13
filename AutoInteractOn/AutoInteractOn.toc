@@ -1,0 +1,5 @@
+## Interface: 16001
+## Title: AutoInteractOn
+## Notes: Forces Click-to-Move on login
+AutoInteractOn.lua
+## IconTexture: Interface\Cursor\Point
